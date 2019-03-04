@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello johndgj!")
+	fmt.Println("update the main coding by johndgj!")
 }
